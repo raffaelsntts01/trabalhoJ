@@ -1,0 +1,7 @@
+
+Tipo: asd,Marca: asf,Tamanho: asfCor: asdTelefone: 4332
+Tipo: asd,Marca: asfas,Tamanho: asfCor: safTelefone: 3
+Tipo: a,Marca: a,Tamanho: aCor: aTelefone: 984335815
+Tipo: asa, Marca: s, Tamanho: aCor: afs, Telefone: 449844
+Tipo: asd, Marca: dsad, Tamanho: dasdCor: dasd, Telefone: 44
+Tipo: a, Marca: a, Tamanho: aCor: a, Telefone: 33
